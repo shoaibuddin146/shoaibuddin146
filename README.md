@@ -1,12 +1,12 @@
-## Shaik Afroz 
+## Mohammed Shoaib Uddin 
 
 <p>
   <i>
-    Hi there 👋, I'm <b>Shaik Afroz</b>. Currently pursuing final year of <b>Bachelor of Engineering</b> in <b>computer science</b>.I am a <b>software developer</b> with robust    <b>problem-solving</b> skills and proven experience in creating and designing software in a test-driven environment, and developing <b>web applications</b>, creating       technology to elevate people.
+    Hi there 👋, I'm <b>Mohammed Shoaib Uddin</b>. Currently pursuing final year of <b>Bachelor of Engineering</b> in <b>computer science</b>.I am a <b>software developer</b> with robust    <b>problem-solving</b> skills and proven experience in creating and designing software in a test-driven environment, and developing <b>web applications</b>, creating       technology to elevate people.
   </i>
 </p>
 
-[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikafroz0016@gmail.com)
+[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KINGSTONE297@gmail.com)
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 ## 👯 Communities
 - Facebook Developer Circle 
@@ -25,21 +25,18 @@ Talk to me about
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/shaik-afroz-449b60199/" target="_blank">
-  <img align="left" alt="Shaik's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/mohammed-shoaib-394aa8149/" target="_blank">
+  <img align="left" alt="Shoaib LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/Shaikafroz99081">
-  <img align="left" alt="Shaik's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.hackerrank.com/shaik_afroz_" target="_blank">
-  <img align="left" alt="Shaiks's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
+<a href="https://twitter.com/ixooxntshoaib">
+  <img align="left" alt="Shoaib's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://www.instagram.com/shaik_afroz_/" target="_blank">
-  <img align="left" alt="Shaik's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/md._.shoaib/" target="_blank">
+  <img align="left" alt="Shoaib's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://t.me/king1430">
+<a href="https://t.me/sho297">
   <img align="left" alt="Shaik's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
