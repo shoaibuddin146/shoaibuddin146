@@ -1,38 +1,56 @@
 ## Mohammed Shoaib Uddin 
 
-<p>
-  <i>
-    Hi there 👋, I'm <b>Mohammed Shoaib Uddin</b>. Currently pursuing final year of <b>Bachelor of Engineering</b> in <b>computer science</b>.I am a <b>software developer</b> with robust    <b>problem-solving</b> skills and proven experience in creating and designing software in a test-driven environment, and developing <b>web applications</b>, creating       technology to elevate people.
-  </i>
-</p>
+<head>
+  <title>Mohammed Shoaib Uddin - System Engineer</title>
+</head>
+<body>
 
-[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KINGSTONE297@gmail.com)
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-## 👯 Communities
-- Facebook Developer Circle 
+<h1>Mohammed Shoaib Uddin</h1>
+
+<h2>Summary</h2>
+<p>Experienced System Engineer with 2 years of expertise in Java, Spring Boot, and MySQL. Proficient in developing robust and scalable back-end applications, actively participating in various stages of the Software Development Life Cycle (SDLC). Skilled in analyzing client requirements, translating them into technical specifications, and delivering business-aligned solutions. Strong troubleshooting and debugging abilities, with a focus on optimizing application performance. Collaborative team player with excellent communication skills.</p>
+
+<h2>Experience</h2>
+<h3>System Engineer | Infosys</h3>
+<p>Duration: [Dates]</p>
+<ul>
+  <li>Developed robust and scalable back-end applications using Java, Spring Boot, and MySQL, leveraging 90% expertise in these technologies.</li>
+  <li>Actively participated in approximately 70% of the Software Development Life Cycle (SDLC), including requirements gathering, design, coding, debugging, testing, deployment, and maintenance.</li>
+  <li>Analyzed client requirements from the Jira board and translated them into technical specifications, achieving a 95% success rate in meeting client expectations.</li>
+  <li>Implemented best practices in application development, including code reviews, bug fixes, performance optimization, unit testing, automation, and Git version control, resulting in a 2x improvement in the development process.</li>
+  <li>Collaborated closely with product managers and stakeholders to understand project requirements and provide valuable technical insights.</li>
+  <li>Successfully delivered business-aligned solutions for over 10 applications, delivering a remarkable 2x improvement in the overall user experience by integrating front-end components with back-end functionality.</li>
+  <li> Troubleshot and debugged issues, ensuring timely resolution to minimize disruptions and optimize application performance by 3x.</li>
+  <li>Stayed updated with industry trends, emerging technologies, and best practices to enhance technical skills and contribute to the team's success.</li>
+  <li>Productively delivered multiple Java-based applications within tight deadlines, maintaining high code quality and adherence to project requirements.</li>
+  <li>Led agile daily stand-ups with US clients and delivered bi-weekly work results to senior management.</li>
+  <li>Resolved issues effectively, considering the impact on upstream and downstream systems and the associated technical implications, with an approximate success rate of 70%.</li>
+</ul>
+
 
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, CSS, JavaScript (React)**
-- Backend development using **Mongo,Express,Node**
-- Solving Data structure and algorithm questions in **Python**
-
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/9uuqgtfntajkmwecw85lw2xow)
+<h2>Skills</h2>
+<ul>
+  <li>Java</li>
+  <li>Spring</li>
+  <li>Software Development</li>
+  <li>Database Handling</li>
+  <li>Backend Development</li>
+</ul>
 
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/mohammed-shoaib-394aa8149/" target="_blank">
+<a href="https://www.linkedin.com/in/MshoaibU" target="_blank">
   <img align="left" alt="Shoaib LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/ixooxntshoaib">
   <img align="left" alt="Shoaib's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://www.instagram.com/md._.shoaib/" target="_blank">
+<a href="https://www.instagram.com/md._.x297/" target="_blank">
   <img align="left" alt="Shoaib's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
