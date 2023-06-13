@@ -85,6 +85,3 @@ Talk to me about
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikafroz016&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook)](https://github.com/shaikafroz016)
 
 </details>
-
----
-
