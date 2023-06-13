@@ -81,7 +81,6 @@ Talk to me about
   <summary><strong>⚡ My Github Stats</strong></summary>
   <br>
   
-  [![github stats](https://github-readme-stats.codestackr.vercel.app/api?username=shoaibuddin146&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/shoaibuddin146)&nbsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibuddin146&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook)](https://github.com/shoaibuddin146)
 
 </details>
