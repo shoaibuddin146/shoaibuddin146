@@ -7,7 +7,7 @@
 
 <h2>Experience</h2>
 <h3>System Engineer | Infosys</h3>
-<p>Duration: [Dates]</p>
+<p>Duration: 09/2021 To Present</p>
 <ul>
   <li>Developed robust and scalable back-end applications using Java, Spring Boot, and MySQL, leveraging 90% expertise in these technologies.</li>
   <li>Actively participated in approximately 70% of the Software Development Life Cycle (SDLC), including requirements gathering, design, coding, debugging, testing, deployment, and maintenance.</li>
